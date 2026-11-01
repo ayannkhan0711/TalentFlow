@@ -30,7 +30,6 @@
   },
   "jest": {
     "testEnvironment": "node",
-    "testMatch": ["**/tests/**/*.test.js"],
-    "setupFilesAfterSetup": []
+    "testMatch": ["**/tests/**/*.test.js"]
   }
 }
